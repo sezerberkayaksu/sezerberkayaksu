@@ -50,7 +50,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## Checkout Songs That I Recently Listened
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/11147353623)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=11147353623)](https://open.spotify.com/user/11147353623)
 
 ## Social Media Accounts
 

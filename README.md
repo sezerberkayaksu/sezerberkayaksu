@@ -1,7 +1,7 @@
 ### Hello there folks, it's Berkay! :metal:
 
 ## **Mechatronic Engineer | Software Developer (Also Geek Metalhead)**
-### *Recently ı am working on front-end technologies also ı love to develop IoT projects, video games and board games, ı grew up in a geek family so besides being Jr. developer also ı am the Jr. geek in the family. So, as master Kenobi said:*
+### *Recently ı am working on front-end technologies also ı love to develop IoT projects, video games and board games. I grew up in a geek family so besides being Jr. developer also ı am the Jr. geek in the family. So, as master Kenobi said:*
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 ## Tech I Use

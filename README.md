@@ -4,6 +4,8 @@
 ### *Recently ı am working on front-end technologies also love to develop IoT projects, video games and board games. I grew up in a geek family so besides being Jr. developer also ı am the Jr. geek in the family. So, as master Kenobi once said:*
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
+<img src="/github-metrics.svg" alt="Metrics">
+
 ## Tech I Use
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

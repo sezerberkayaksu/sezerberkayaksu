@@ -1,12 +1,12 @@
 ### Hi there folks, it's Berkay! :metal:
 
 ## **Mechatronic Engineer | Software Developer (Also Geek Metalhead)**
-### *Recently ı am working on front-end technologies also love to develop IoT projects, video games and board games. I grew up in a geek family so besides being Jr. developer also ı am the Jr. geek in the family. So, as master Kenobi once said:*
+### *Recently ı am working on front-end technologies also love to develop IoT projects, video games and board games. So, as master Kenobi once said:*
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 <img src="/github-metrics.svg" alt="Metrics">
 
-## Tech I Use
+<!--- ## Tech I Use 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,7 +47,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+--->
 ## Checkout Songs That I Recently Listened
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=11147353623)](https://open.spotify.com/user/11147353623)
 
